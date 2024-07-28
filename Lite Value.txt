@@ -1,0 +1,178 @@
+BulletFireSpeed(Gun Firing Speed)= 
+Maximum Value= 9999
+
+
+
+AccessoriesVRecoilFactor (Vartical No Recoil)=
+Value- 0
+AccessoriesHRecoilFactor (Horizontal No Recoil)= 
+Value- 0
+
+
+
+
+GameDeviationFactor (Small Crossear)- 
+Small- 0 
+Medium - 5
+Big - 10
+
+
+
+
+RecoilKckADS (Gun Move-Shake)=
+Fix No Move Gaun Other Side Value - 0
+
+
+
+ExtraHitPerforom Scale (X-Effect)=
+Normal Value-  35
+
+
+
+
+SwitchFormldleToBackpackTime(Gun Fast Switch)=
+Glitch Value - 0
+But This Fix And Fast Change Weapon - 0.1
+
+SwitchFromBackpackToldeTime(Same) =
+Value- 0.2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+360 Aimbot° =
+Export 13 (ShootWeaponEntuty_GEN_VARIABLE) / ShootWeaponEntity(41) / AutoAmingConfig(2) / (OuterRange and innerRange)::::::----
+Speed- 9999
+adsorbMaxRange- 9999
+adsorbMinRange- 9999
+
+
+
+
+
+
+AtuoAmingConfigList(3) / AutoAimngConfigList(7)=
+AutoAimngConfigList(7)-{3}=
+OuterRange-  
+InnerRange- 
+ScopeRange- 
+
+
+
+
+Credit Enter in all Null Files :-
+for /R %F in (*) do echo Mod By @ADITYA_OFFICIAL> "%F"
+
+SKY COLOR CODE Number Of 7=
+
+ 0451 = aqua
+
+3044 = pink
+
+1002 = red
+
+0201 = lite green
+
+0001
+
+0011
+
+0111
+
+1011
+
+0101
+
+
+
+
+
